@@ -6,9 +6,11 @@
 英文原文|中文翻译
 -|-
 Breath|气息
+Filter|腔体
 Formant|共振峰
 Pitch|音高
 Resonance|共鸣
 Subglottal Pressure|声门下压力
 Tone|音色
+Vocal Attractor State|歌唱稳定态
 Vocal Tract|声道
