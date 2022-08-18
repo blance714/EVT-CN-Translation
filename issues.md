@@ -31,3 +31,9 @@
 > “Relaxation is used to refine the isolation of the specific muscles involved in producing each Figure, each structural option.”  
 
 放松可以更好地在完成每个 Figure 和结构选项的时候，让不同的肌肉独立地发挥作用。
+
+### 4
+
+> Add music or monologue, to release tensions associated with complex vocal tasks.
+
+添加哼唱（？）或者独白，来放松复杂发声的紧张
